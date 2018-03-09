@@ -16,8 +16,7 @@ class User extends Controller{
         return "演示控制器初始化方法";
     }
 }
-
 ```
 
-
+![](/assets/import40.png)
 

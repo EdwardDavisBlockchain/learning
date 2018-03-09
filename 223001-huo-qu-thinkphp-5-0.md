@@ -30,6 +30,8 @@ composer安装完成之后 进入cmd命令窗口将目录地址切换到你要�
 
 开始执行命令：**composer create-project topthink/think tp5 --prefer-dist**
 
+tp5为你的项目名称也就是文件夹的名称
+
 ![](/assets/import2.png)
 
 ![](/assets/import4.png)
