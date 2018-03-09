@@ -14,4 +14,5 @@
   * [2.7、关键路径常量说明](273001-guan-jian-lu-jing-chang-liang-shuo-ming.md)
 * [3、ThinkPHP控制器（重点）](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09.md)
   * [3.1、创建控制器](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09/313001-chuang-jian-kong-zhi-qi.md)
+  * [3.2、控制器的命名规范](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09/323001-kong-zhi-qi-de-ming-ming-gui-fan.md)
 
