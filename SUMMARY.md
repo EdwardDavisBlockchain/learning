@@ -15,4 +15,5 @@
 * [3、ThinkPHP控制器（重点）](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09.md)
   * [3.1、创建控制器](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09/313001-chuang-jian-kong-zhi-qi.md)
   * [3.2、控制器的命名规范](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09/323001-kong-zhi-qi-de-ming-ming-gui-fan.md)
+  * [3.3、控制器的初始化](3thinkphpkong-zhi-qi-ff08-zhong-dian-ff09/333001-kong-zhi-qi-de-chu-shi-hua.md)
 
