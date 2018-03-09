@@ -24,7 +24,7 @@ class User{
 
 还是先创建文件只不过文件里的代码不同
 
-```
+```php
 <?php
 namespace app\index\controller;
 
