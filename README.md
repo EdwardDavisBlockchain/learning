@@ -1,3 +1,4 @@
-# My Awesome Book
+# ThinkPHP 5框架详解
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这本书专门针对TP5框架从简入繁深入的讲解,深入各个知识点进行分解,争取达到可以让新手一目了然,直接上手的程度.
+
