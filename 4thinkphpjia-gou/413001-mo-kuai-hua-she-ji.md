@@ -6,9 +6,7 @@ ThinkPHP新版采用模块化的架构设计思想，对目录结构规范做了
 
 一个典型的URL访问规则是（我们以默认的PATHINFO模式为例说明，当然也可以支持普通的URL模式）：
 
-http://servername/入口文件/模块/控制器/操作方法
+[http://servername/入口文件/模块/控制器/操作方法](http://servername/入口文件/模块/控制器/操作方法)
 
-http://www.tp5.com/index.php/index/user/showUser
-
-
+[http://www.tp5.com/index.php/index/user/showUser](http://www.tp5.com/index.php/index/user/showUser)1
 
