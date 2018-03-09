@@ -8,5 +8,5 @@ ThinkPHP新版采用模块化的架构设计思想，对目录结构规范做了
 
 [http://servername/入口文件/模块/控制器/操作方法](http://servername/入口文件/模块/控制器/操作方法)
 
-[http://www.tp5.com/index.php/index/user/showUser](http://www.tp5.com/index.php/index/user/showUser)1
+[http://www.tp5.com/index.php/index/user/showUser](http://www.tp5.com/index.php/index/user/showUser)
 
